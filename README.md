@@ -1,6 +1,6 @@
 # e_commerce
 
-A new Flutter project.
+Flutter ile yazılmış bir e-ticaret mobil uygulaması
 
 ## Getting Started
 
